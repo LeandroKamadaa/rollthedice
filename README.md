@@ -2,11 +2,13 @@
 
 Checkpoint4 - Webdev
 
+Um módulo simples que simula o lançamento de um dado de 20 lados e exibe uma mensagem colorida com base no resultado. Ele utiliza as bibliotecas `chalk` para colorir o texto e `cool-ascii-faces` para adicionar emoticons divertidos nas mensagens.
+
 ## Grupo
 
 ### Leandro Kamada Pesce Dimov - rm560381
 
-Um módulo simples que simula o lançamento de um dado de 20 lados e exibe uma mensagem colorida com base no resultado. Ele utiliza as bibliotecas `chalk` para colorir o texto e `cool-ascii-faces` para adicionar emoticons divertidos nas mensagens.
+
 
 ## Instalação
 
