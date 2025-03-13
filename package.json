@@ -1,0 +1,16 @@
+{
+  "name": "@leandrokamada/rollthedice",
+  "version": "1.0.0",
+  "description": "Checkpoint4 - Webdev",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "cool-ascii-faces": "^1.3.4"
+  }
+}
