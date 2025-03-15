@@ -6,7 +6,11 @@ Um módulo simples que simula o lançamento de um dado de 20 lados e exibe uma m
 
 ## Grupo
 
-### Leandro Kamada Pesce Dimov - rm560381
+### - Leandro Kamada Pesce Dimov - RM560381
+### - Cilas Pinto Macedo - RM560745
+### - Ian Junji Maluvayshi Matsushita RM560588
+### - Pedro Arão Baquini - RM559580
+### - Leonardo de Souza Pierangelli - RM560381
 
 
 
