@@ -10,7 +10,7 @@ Um módulo simples que simula o lançamento de um dado de 20 lados e exibe uma m
 ### - Cilas Pinto Macedo - RM560745
 ### - Ian Junji Maluvayshi Matsushita RM560588
 ### - Pedro Arão Baquini - RM559580
-### - Leonardo de Souza Pierangelli - RM560381
+### - Leonardo de Souza Pierangelli - RM560501
 
 
 
